@@ -4,4 +4,4 @@ Team([Ajith](https://github.com/ajith-u), [Sulaiman](https://github.com/MdSulaim
 
 Solitare is our first own project. We decided to create a game to play in the windows terminal only.
 
-Thanks to Ananya help us to create "help.rb" file.
+Thanks to [Ananya](https://github.com/Ananya2259) help us to create "help.rb" file.
