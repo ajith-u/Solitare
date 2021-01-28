@@ -1,1 +1,5 @@
 # Solitare
+
+Solitare is my first own project with my friends Sulaiman and Karthik. We decided to create a game to play in the windows terminal only.
+
+Thanks to Ananya help us to create "help.rb" file.
